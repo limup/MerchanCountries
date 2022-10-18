@@ -3,7 +3,7 @@
 Clone o projeto inteiro
 
 ```bash
-  git clone https://github.com/limup/capta-gestao-cliente.git
+  git clone https://github.com/limup/MerchanCountries.git
 ```
 
 Acesse a pasta
@@ -42,11 +42,6 @@ Stop
 
 ```http
   http://localhost:5224/api/MerchanCountries
-```
-ou
-
-```http
-  http://localhost:8084/merchancountriesangular
 ```
 
 #### Monog Express
