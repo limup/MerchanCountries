@@ -73,11 +73,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Domain\\MerchanCountriesAngular.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Domain\\MerchanCountriesAngular.Domain.csproj",
       "projectName": "MerchanCountriesAngular.Domain",
-      "projectPath": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Domain\\MerchanCountriesAngular.Domain.csproj",
+      "projectPath": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Domain\\MerchanCountriesAngular.Domain.csproj",
       "packagesPath": "C:\\Users\\limup\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Domain\\obj\\",
+      "outputPath": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\limup\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +94,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj": {
-              "projectPath": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj"
+            "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj": {
+              "projectPath": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj"
             }
           }
         }

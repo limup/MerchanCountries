@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTwy+wSOyTtGtAVwuYcmlLUoxc3YYoixBS+dd8g0SQi41Dsl3Xebt5awV+vvzQ5O8JqScqK1eL+Jsdl79ZdGSw==",
+  "dgSpecHash": "ecFt+dTRNdqP3e3uKWY9B1PjbNg1yzXD56qg8al240Xa1hg9bne77thm581nMJQYBT+vqDVmhe21rz8XSD9AGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Data\\MerchanCountriesAngular.Data.csproj",
+  "projectFilePath": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Data\\MerchanCountriesAngular.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\limup\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\limup\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

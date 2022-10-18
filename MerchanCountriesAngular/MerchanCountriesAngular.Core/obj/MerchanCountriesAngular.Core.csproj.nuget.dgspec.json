@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj": {}
+    "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj": {
+    "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj",
+        "projectUniqueName": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj",
         "projectName": "MerchanCountriesAngular.Core",
-        "projectPath": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj",
+        "projectPath": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\MerchanCountriesAngular.Core.csproj",
         "packagesPath": "C:\\Users\\limup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\obj\\",
+        "outputPath": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\limup\\AppData\\Roaming\\NuGet\\NuGet.Config",

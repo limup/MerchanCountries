@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J7FHhW7ArJ4qJLWQGSRUxy0qWxYmmFgGHptllLdDU1zcNbij0Ot4882+r4uRT9DjKFtYOEjgxTbwlg5Q5+AOMA==",
+  "dgSpecHash": "gddkylOOdAVLlflG88I9SQwaelWRyqwZXI1AzfVw+XqkuGgpA9IjqtX0aY207bvbS1R9/UQLU1QlNeBU9z3xtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\limup\\OneDrive\\4- Projetos\\7- Tutoriais e Aprendizados\\tutorial-projects\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Domain\\MerchanCountriesAngular.Domain.csproj",
+  "projectFilePath": "C:\\Users\\limup\\Documents\\teste\\MerchanCountries\\MerchanCountriesAngular\\MerchanCountriesAngular.Domain\\MerchanCountriesAngular.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\limup\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
