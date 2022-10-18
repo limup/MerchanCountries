@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-MerchanCountriesWorker.Console-1448fbee-21f3-4e46-87bb-cc4cc3307f53</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cronos" Version="0.7.1" />
+    <PackageReference Include="FluentScheduler" Version="5.5.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0-preview.6.22324.4" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Net.Http.Headers" Version="2.2.8" />
+    <PackageReference Include="toJSON" Version="1.0.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MerchanCountriesWorker.Domain\MerchanCountriesWorker.Domain.csproj" />
+    <ProjectReference Include="..\MerchanCountriesWorker.Core\MerchanCountriesWorker.Core.csproj" />
+    <ProjectReference Include="..\MerchanCountriesWorker.Data\MerchanCountriesWorker.Data.csproj" />
+  </ItemGroup>
+</Project>

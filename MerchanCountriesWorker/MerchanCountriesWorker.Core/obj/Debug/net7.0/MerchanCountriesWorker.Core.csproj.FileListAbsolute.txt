@@ -1,0 +1,12 @@
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\bin\Debug\net7.0\MerchanCountriesWorker.Core.deps.json
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\bin\Debug\net7.0\MerchanCountriesWorker.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\bin\Debug\net7.0\MerchanCountriesWorker.Core.pdb
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\MerchanCountriesWorker.Core.csproj.AssemblyReference.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\MerchanCountriesWorker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\MerchanCountriesWorker.Core.AssemblyInfoInputs.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\MerchanCountriesWorker.Core.AssemblyInfo.cs
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\MerchanCountriesWorker.Core.csproj.CoreCompileInputs.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\MerchanCountriesWorker.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\refint\MerchanCountriesWorker.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\MerchanCountriesWorker.Core.pdb
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesWorker\MerchanCountriesWorker.Core\obj\Debug\net7.0\ref\MerchanCountriesWorker.Core.dll

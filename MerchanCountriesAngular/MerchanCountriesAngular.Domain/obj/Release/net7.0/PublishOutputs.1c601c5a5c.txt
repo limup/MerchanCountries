@@ -1,0 +1,6 @@
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Domain\bin\Release\net7.0\publish\MerchanCountriesAngular.Domain.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Domain\bin\Release\net7.0\publish\MerchanCountriesAngular.Domain.deps.json
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Domain\bin\Release\net7.0\publish\MerchanCountriesAngular.Domain.pdb
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Domain\bin\Release\net7.0\publish\Newtonsoft.Json.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Domain\bin\Release\net7.0\publish\MerchanCountriesAngular.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Domain\bin\Release\net7.0\publish\MerchanCountriesAngular.Core.pdb

@@ -1,0 +1,108 @@
+<h1 id="tableLabel">Lists of Countries</h1>
+
+<p *ngIf="!countries?.length"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="countries.length">
+    <thead>
+        <tr>
+            <th>Nome do País</th>
+            <th>Sigla</th>
+            <th>Moedas (sigla)</th>
+            <th>Bandeira</th>
+            <th>Detalhes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let country of countries">
+            <td>{{ country.name.common == null ? '' : country.name.common }}</td>
+            <td>{{ country.cca2 == null ? '' : country.cca2 }}</td>
+            <td>{{ getCurrency(country) }}</td>
+            <td><img alt="Bandeira" width="24px" height="24px" src="{{ country.flags.png == null ? '' : country.flags.png }}" /></td>
+            <td><button 
+                type="button" 
+                class="btn btn-primary btn-lg" 
+                data-toggle="modal" 
+                data-target="#bootstrapModel"
+                (click)="openModal(country)"> 
+                    <img alt="Lupa" width="24px" height="24px" src="https://cdn-icons-png.flaticon.com/512/2311/2311526.png" />
+                </button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="backdrop" [ngStyle]="{'display':display}"></div>
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':display}">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" aria-label="Close" (click)="onCloseHandled()"><span
+                        aria-hidden="true">&times;</span></button>
+                <h2 class="modal-title">More detail</h2>
+            </div>
+            <div class="modal-body">
+                <table class='table table-striped  ' aria-labelledby="tableLabel" >
+                    <thead>
+                        <tr >
+                            <th>Populations</th>
+                            <th>Timezone</th>
+                            <th>Currencies Symbol</th>
+                            <th>Languages</th>
+                            <th>Capital</th>
+                            <th>Trade route</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{{ population }}</td>
+                            <td>{{ timezone }}</td>
+                            <td>{{ currenciesSymbol }}</td>
+                            <td>{{ language }}</td>
+                            <td>{{ capital }}</td>
+                            <td><button 
+                                type="button" 
+                                class="btn btn-primary btn-lg" 
+                                data-toggle="modal" 
+                                data-target="#bootstrapModel"
+                                (click)="openModalTrade()"
+                                >
+                                    <img alt="Lupa" width="24px" height="24px" src="https://cdn-icons-png.flaticon.com/512/2311/2311526.png" />
+                                </button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" (click)="onCloseHandled()">Close</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal !-->
+
+<div class="backdrop" [ngStyle]="{'display':displayBorders}"></div>
+<div class="modal" tabindex="-1" role="dialog" [ngStyle]="{'display':displayBorders}">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" aria-label="Close" (click)="onCloseTrade()"><span
+                        aria-hidden="true">&times;</span></button>
+                <h2 class="modal-title">List of Trade Route</h2>
+            </div>
+            <div class="modal-body">
+                
+                <ng-container *ngIf="bordering;else noContent">
+                    <ul *ngFor="let border of bordering">
+                        <li>{{ border }}</li>
+                    </ul>
+                </ng-container>
+                <ng-template #noContent>
+                    <p>Não há fronteiras para este país.</p>
+                </ng-template>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" (click)="onCloseTrade()">Close</button>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal !-->

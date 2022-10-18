@@ -1,0 +1,12 @@
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\MerchanCountriesApi.Core.csproj.AssemblyReference.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\MerchanCountriesApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\MerchanCountriesApi.Core.AssemblyInfoInputs.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\MerchanCountriesApi.Core.AssemblyInfo.cs
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\MerchanCountriesApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\bin\Debug\net7.0\MerchanCountriesApi.Core.deps.json
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\bin\Debug\net7.0\MerchanCountriesApi.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\bin\Debug\net7.0\MerchanCountriesApi.Core.pdb
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\MerchanCountriesApi.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\refint\MerchanCountriesApi.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\MerchanCountriesApi.Core.pdb
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Core\obj\Debug\net7.0\ref\MerchanCountriesApi.Core.dll

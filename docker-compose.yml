@@ -1,0 +1,71 @@
+version: "3.9"
+
+services: 
+
+  merchancountriesangular:
+    image: merchancountriesangular:${MERCHANCOUNTRIESANGULAR_VERSION}
+    build:
+      dockerfile: MerchanCountries/MerchanCountriesAngular/Dockerfile
+      context: ../
+    env_file: 
+      - .env
+    volumes: 
+      - upload-files:/merchancountriesangular/uploaded-files
+    ports:
+      - "8085:5003" 
+    environment:
+      Host: merchancountriesapi  
+    depends_on:
+      - merchancountriesapi
+  
+  mongo:
+    image: mongo
+    restart: always
+    ports:
+      - 27017:27017
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    ports:
+      - 8081:8081
+    depends_on:
+      - mongo
+  
+  merchancountriesworker:
+    image: merchancountriesworker:${MERCHANCOUNTRIESWORKER_VERSION}
+    build:
+      dockerfile: MerchanCountries/MerchanCountriesWorker/Dockerfile
+      context: ../
+    env_file: 
+      - .env
+    volumes: 
+      - upload-files:/MerchanCountriesWorker/uploaded-files
+    environment:
+      MongoDB__Host: mongo
+    depends_on:
+      - mongo
+  
+  merchancountriesapi:
+    image: merchancountriesapi:${MERCHANCOUNTRIESAPI_VERSION}
+    build:
+      dockerfile: MerchanCountries/MerchanCountriesApi/Dockerfile
+      context: ../
+    env_file: 
+      - .env
+    volumes: 
+      - upload-files:/MerchanCountriesApi/uploaded-files
+    ports:
+      - 5224:5224
+    environment:
+      MongoDB__Host: mongo
+    depends_on:
+      - mongo
+      - mongo-express
+
+volumes: 
+  upload-files:
+  #   depends_on:
+  #     - db
+  # db:
+  #   image: "node:12.18.1"

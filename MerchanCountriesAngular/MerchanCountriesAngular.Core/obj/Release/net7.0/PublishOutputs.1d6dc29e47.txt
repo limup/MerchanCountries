@@ -1,0 +1,3 @@
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Core\bin\Release\net7.0\publish\MerchanCountriesAngular.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Core\bin\Release\net7.0\publish\MerchanCountriesAngular.Core.deps.json
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesAngular\MerchanCountriesAngular.Core\bin\Release\net7.0\publish\MerchanCountriesAngular.Core.pdb

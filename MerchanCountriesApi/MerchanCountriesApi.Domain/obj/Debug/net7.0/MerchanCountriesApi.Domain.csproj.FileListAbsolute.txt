@@ -1,0 +1,15 @@
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\MerchanCountriesApi.Domain.csproj.AssemblyReference.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\MerchanCountriesApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\MerchanCountriesApi.Domain.AssemblyInfoInputs.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\MerchanCountriesApi.Domain.AssemblyInfo.cs
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\MerchanCountriesApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\bin\Debug\net7.0\MerchanCountriesApi.Domain.deps.json
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\bin\Debug\net7.0\MerchanCountriesApi.Domain.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\bin\Debug\net7.0\MerchanCountriesApi.Domain.pdb
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\bin\Debug\net7.0\MerchanCountriesApi.Core.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\bin\Debug\net7.0\MerchanCountriesApi.Core.pdb
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\MerchanCountriesApi.Domain.csproj.CopyComplete
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\MerchanCountriesApi.Domain.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\refint\MerchanCountriesApi.Domain.dll
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\MerchanCountriesApi.Domain.pdb
+C:\Users\limup\OneDrive\4- Projetos\7- Tutoriais e Aprendizados\tutorial-projects\MerchanCountries\MerchanCountriesApi\MerchanCountriesApi.Domain\obj\Debug\net7.0\ref\MerchanCountriesApi.Domain.dll

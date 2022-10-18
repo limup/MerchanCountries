@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nV7HnGz153fSV9x2U52FBO4uo2RQhjaGE4hlG1xUeyc=",
+  "Source": "MerchanCountriesApi",
+  "BasePath": "_content/MerchanCountriesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
