@@ -68,28 +68,34 @@ Stop
 ### Task
 
 - [ ] Testes unitários
-- [x] Publish no Docker
+- [x] ~~Publish no Docker~~
 
-- [x] Serviço do linux Daeon (https://rafaelcruz.azurewebsites.net/2020/07/07/construindo-um-windows-service-ou-linux-daemon-com-worker-service-net-core-parte-2/)
-	- [x] Armazenamento em Cache - MongoDB
+- [x] ~~Serviço do linux Daeon (https://rafaelcruz.azurewebsites.net/2020/07/07/construindo-um-windows-service-ou-linux-daemon-com-worker-service-net-core-parte-2/)~~
+	- [x] ~~Armazenamento em Cache - MongoDB~~
 	
-	- [x] Consulta Paises (HttpClient)
-		- [x] https://restcountries.com/v3.1/all
-		- [x] Nome do País, Sigla, Moedas (sigla), Bandeira e Blocos Econômicos), População, Timezone, Moedas (currencies), Línguas (languages), Capital, Blocos econômicos (Regional Blocks) e Países que fazem fronteira (bordering countries);
+	- [x] ~~Consulta Paises (HttpClient)~~
+		- [x] ~~https://restcountries.com/v3.1/all~~
+		- [x] ~~Nome do País, Sigla, Moedas (sigla), Bandeira e Blocos Econômicos), População, Timezone, Moedas (currencies), Línguas (languages), Capital, Blocos econômicos (Regional Blocks) e Países que fazem fronteira (bordering countries);~~
 
-- [x] WebAPI para disponibilizar para outros canais
-	- [x] Acessar o MongoDB com os paices armazenados
+- [x] ~~WebAPI para disponibilizar para outros canais~~
+	- [x] ~~Acessar o MongoDB com os paices armazenados~~
 
 - Front Angular
 	- [ ] TailwindCSS
-	- [x] Exibir Nome do País, Sigla, Moedas (sigla), Bandeira e Blocos 
-Econômicos)
-	- [x] Ao clicar na Lupa/Mais detalhes exibir um frame: População, Timezone, Moedas (currencies), Línguas (languages), Capital, Blocos econômicos (Regional Blocks) e Países que fazem fronteira (bordering countries);
-	- [x] Exibir Rotas Comerciais
+	- [x] ~~Exibir Nome do País, Sigla, Moedas (sigla), Bandeira e Blocos 
+Econômicos)~~
+	- [x] ~~Ao clicar na Lupa/Mais detalhes exibir um frame: População, Timezone, Moedas (currencies), Línguas (languages), Capital, Blocos econômicos (Regional Blocks) e Países que fazem fronteira (bordering countries);~~
+	- [x] ~~Exibir Rotas Comerciais~~
 
 -----------------------------------------------
 
-- [x] Alterar a worker para 1h
-- [x] Retirar os menus no Angular
+- [x] ~~Alterar a worker para 1h~~
+- [x] ~~Retirar os menus no Angular~~
 - [ ] Aplicar a Tailwind
 
+## Contribuições e Bitcoin:
+PS: Se você encontrou valor neste projeto e quer contribuir um favor, então:
+
+Bitcoint: 3B6S4o2s7EFBtRKa79h2arGXGF5KLStTPJ
+
+<a href="https://www.buymeacoffee.com/limup"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/limup" /></a><br/>
